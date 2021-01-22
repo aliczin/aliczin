@@ -2,7 +2,8 @@ baseURL = "https://new.lustin.org/"
 languageCode = "ru-ru"
 title = "Al Iczin (c)"
 theme = "lustin.ogr"
-DefaultContentLanguage = "ru" 
+DefaultContentLanguage = "ru"
+publishDir = "docs"
 
 [sitemap]
   changefreq = "monthly"
