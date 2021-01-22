@@ -24,4 +24,5 @@
 * повышение качества знаний всех команд: внедрения и разработки, поддержк и инфраструктуры
   
   
+  https://github-readme-stats.vercel.app/api?username=aliczin&show_icons=true
   
