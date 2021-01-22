@@ -16,4 +16,4 @@ publishDir = "docs"
         languageCode     = "ru-RU"
         contentDir       = "content/ru"
         weight           = 0
-        title            = "Привет GHP"
+        title            = "Привет GHP TITLE"
