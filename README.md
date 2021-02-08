@@ -1,4 +1,4 @@
-###  Лустин Алексей Александрович 👋
+###  Al Iczin 👋
   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aliczin&langs_count=8&layout=compact)  
     
